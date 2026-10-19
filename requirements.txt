@@ -1,0 +1,8 @@
+# WebGuard — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+# Flask: the lightweight web framework that serves the dashboard
+flask==3.1.1
+
+# Requests: makes outbound HTTP requests to the target website during scanning
+requests>=2.32.4
